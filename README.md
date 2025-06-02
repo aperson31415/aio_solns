@@ -1,13 +1,9 @@
 # AIO Solutions
-Here is a collection of python AIO, AIIO, FARIO, ACIO question answers.
+Here is a collection of python AIO task solutions.
 By the way, they might not be maximum efficiency, I just know that they work
 
-Currently has: Starter problems, starter set I
-To add: starter set II, III, IV, introductory aio problems
-To add: 2024, 2023, 2022, 2021 first half
 To add: 2020, 2019, 2018, 2017, 2010, 2009, 2007, 2006 first half (still need to solve some)
-To add: whatever else i've done 9
 
-DISCLAIMER: I am not adding selection exam answers (or 2015/2012) (as i think amt uses them for tracking)
+DISCLAIMER: I am not adding selection exam answers, and solutions to AIO past q3 (or 2015/2012) (as i think amt uses them for tracking)
 
-Goal by 22/7: Half of all AIO (or more), First 2 qns for AIIO, ACIO & Alpha half/third, FARIO 1/2 qn
+Note that some questions are duplicates, and if you can't find them, look in the starter sets/problems (i.e. introductory problems not there, most in starter sets)
