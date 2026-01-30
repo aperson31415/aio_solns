@@ -1,6 +1,8 @@
-#include <bits/stdc++.h>
- 
+// Copied off somewhere else
+
+#include <bits/stdc++.h> 
 using namespace std;
+
 bool comp(pair<int, int> a, pair<int, int> b) {
     if (a.second != b.second) {
         return a.second < b.second;
