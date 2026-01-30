@@ -6,5 +6,5 @@ One big feature of this repo is the 'Hidden ORAC Problem Revealer' userscript, w
 Here is a list of the included problem's solutions:
 <details>
 <summary>Click to expand</summary>
-Nothing here yet!
+Solutions added so far: 0
 </details>
