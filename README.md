@@ -6,7 +6,9 @@ One big feature of this repo is the 'Hidden ORAC Problem Revealer' userscript, w
 Here is a list of the included problem's solutions:
 <details>
 <summary>Click to expand</summary>
-  Solutions added so far: 101 (Just hit 100 problems!)
+
+  
+  Solutions added so far: 104 (Just hit 100 problems!)
 
 Starter
   - Starter Problems: All
@@ -46,9 +48,10 @@ Other Starter Sets
   - Starter Set III: All except King Arthur
   - C++ Starter Set: All
 
-Alpha Contest (Not added Yet)
+Alpha Contest
   - All p1s (3x)
 
 FARIO
   - None Yet
+
 </details>
