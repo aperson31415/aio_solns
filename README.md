@@ -1,5 +1,5 @@
 # ORAC Solutions
-I might start updating this again, no guarantees (I have deleted all problems for now, because I'm going to add them in neater). By the way, if a problem file is just a number, it refers to [https://orac2.info/problem/id/](#https://orac2.info/problem/id/)
+ORAC Solutions to AIO problems, AIIO Problems, Alpha Contest Problems, FARIO Problems, Other ORAC Problems. By the way, if a problem file is just a number, it refers to [https://orac2.info/problem/id/](#https://orac2.info/problem/id/). Also, I will not include solutions to leaderboarded-questions (Less than 10 people solved) (so I can stay on the leaderboard), or Selection Exam problems (maybe later tho because I don't want to :) ).
 
 One big feature of this repo is the 'Hidden ORAC Problem Revealer' userscript, which just shows a bunch of hidden problem onto the problems page. See the folder and README.md for more information.
 
@@ -40,7 +40,7 @@ AIO
 
 AIIO
   - 2025 p1
-  - 2012 p3
+  - 2012 p3IIO
   - 2006 p1
 
 Other Starter Sets
