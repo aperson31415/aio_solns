@@ -11,3 +11,5 @@ This is a cool userscript that I use for orac2.info. These are the features:
 - Adds some informatics notes/reference/implementations
 
 By the way, you **need tampermonkey** for this script to work well (now fully dependent on tampermonkey :( because using tampermonkey specific storage functions). You can adapt this, it's probably kinda easy.
+
+Old pdf problems are broken - might fix later
