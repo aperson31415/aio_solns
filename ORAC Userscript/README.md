@@ -1,5 +1,7 @@
 # ORAC Userscript
 
+New installation method/listing: [here](https://greasyfork.org/en/scripts/591750-orac-userscript)
+
 This is a cool userscript that I use for orac2.info. These are the features:
 - Shows hidden problems
 - Organises problems into more tags (i.e. starter problems)
