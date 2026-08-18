@@ -1,7 +1,10 @@
 # Australian Informatics Resources
+## Notices
 Easier way to install orac2.info userscript: [link](https://greasyfork.org/en/scripts/591750-orac-userscript)
 
 DISCLAIMER: None of the 'hidden' or old problems I have in this repository are already public material, which can be accessed from brute-forcing page links, or using the Wayback Machin (old versions of the website)
+
+## Actual Content
 
 ORAC Solutions to AIO problems, AIIO Problems, Alpha Contest Problems, FARIO Problems, Other ORAC Problems. By the way, if a problem file is just a number, it refers to [https://orac2.info/problem/id/](https://orac2.info/problem/id/). Also, I will not include solutions to leaderboarded-questions (Less than 10 people solved) (so I can stay on the leaderboard), or Selection Exam problems (maybe later tho because I don't want to :) ).
 
@@ -21,16 +24,19 @@ Decided to
 </details>
 <details>
   <summary>Solve Count Benchmarks</summary>
-  100 Problems: Jan 2026
-  125 Problems: Mar 2026
-  150 Problems: Apr 2026
-  All AIO p1-5s: Sep 2026
+  100 Problems: Jan 2026<br>
+  125 Problems: Mar 2026<br>
+  150 Problems: Apr 2026<br>
+  All AIO p1-5s: Sep 2026<br>
+  All 3 star problems: Apr 2026, Tennis Robot II got added recently, so Sep 2026<br>
 </details>
 <details>
   <summary>Close Goals</summary>
-  All AIO problems
-  All Alpha p1-3s
-  175 problems solved
+  All AIO problems<br>
+  All Alpha p1-3s<br>
+  175 problems solved<br>
+  All 4 star problems<br>
+  500+ in this years AIO!<br>
 </details>
 
 
