@@ -11,103 +11,26 @@ I'm planning to solve a lot of problems (specifically AIO + AIIO) soon. (Aiming 
 
 Somehow this repo has an average of ~150-200 unique cloners every fortnight but like 5 views, so is that just bots or real people? Someone pls tell me.
 
-Here is a list of the included problem's solutions (I've solved a few more: some seln ones, and some external ones, which are not original, so not included):
+Too lazy to keep track of included/solved problems, so just included approximate until i get to leaderboard, and goals.
 <details>
 <summary>Click to expand</summary>
 
-  Solutions added so far: Unknown (not bothered to count, maybe ~150)
-  Problems I've solved: 165
+  Problems I've solved: 171
   
-
-Starter
-  - Starter Problems: All
-  - AIO Starter Sets & Challenges: All (However these are included in separate folders from the original AIO they were in (some might be in AIC folder inside training folder tho))
-  - Introductory AIO Problems I (Are there more of these types?): All (However these are also included in separate folders from the original AIO they were in)
-
-AIO
-  - AIO 2025: p1-5
-  - AIO 2024: p1-4
-  - AIO 2023: p1-5
-  - AIO 2022: p1-5
-  - AIO 2021: p1-4 & 6
-  - AIO 2020: p1-4
-  - AIO 2019: p1-4 & 6
-  - AIO 2018: p1-4
-  - AIO 2017: p1-3, 4, 6
-  - AIO 2016: p1-3
-  - AIO 2015: p1-4
-  - AIO 2014: p1-2, 4
-  - AIO 2013: p1-3
-  - AIO 2012: p1,3, 1sen,3sen
-  - AIO 2011: p1, 2, 4
-  - AIO 2010: p1-5
-  - AIO 2009: p1-4
-  - AIO 2008: p1-4, 3-4sen
-  - AIO 2007: p1-4
-  - AIO 2006: p1-6
-  - AIO 2005: p1-3, 6
-
-AIIO
-  - P1s: 2025, 2024, 2012, 2011, 2010, 2009, 2007, 2006
-  - P2s: 2025, 2011
-  - P3s: 2012
-  - P4s: None :(
-
-Other Sets
-  - Training Set I: p1-8
-  - Training Set II: p1-4
-  - C++ Starter Set: p1-5
-  - AIC: 3x (part of starter set/s)
-
-Alpha Contest
-  - P1s: 2022, 2023, 2024
-  - P2s: 2022, 2023, 2024
-  - P3s: 2022, 2023
-  - P4s: None :(
-
-FARIO
-  - P1s: 2004, 2008, 2009, 2010, 2011, 2012
-  - P2s: 2010
-  - P3s: None :(
-  - P4s: None :(
-
-Selection Exams (Decided to put solutions)
-  - 2004: p2
-  - 2003: p1, 2, 4, 5, 6, 7
-  - 1999: p1, 3
-
+Decided to 
 </details>
 <details>
-  <summary>Solve Count Goals</summary>
-  Weekly Leaderboard: At least once a month
-
-  Monthly Leaderboard: At least 50% of the time
-
-  All time Leaderboard (~190-200): [Oct 2026?]
-
+  <summary>Solve Count Benchmarks</summary>
   100 Problems: Jan 2026
-
   125 Problems: Mar 2026
-
   150 Problems: Apr 2026
-
-  175 Problems: [Jun/Jul 2026?]
-
-  200 Problems: [Dec 2026?]
-
-  225 Problems: [Jan 2027?]
-
-  250 Problems: [Jan/Feb 2027?]
-
+  All AIO p1-5s: Sep 2026
 </details>
 <details>
-  <summary>Difficulty Solve Goals</summary>
-  AIO All: ?
-  AIIO p1s: ?
-  AIIO 20: ?
-  FARIO 15: ?
-  Alpha p3: ?
-  Seln 80%: ?
+  <summary>Close Goals</summary>
+  All AIO problems
+  All Alpha p1-3s
+  175 problems solved
 </details>
 
 
