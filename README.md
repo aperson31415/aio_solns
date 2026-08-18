@@ -1,6 +1,8 @@
 # Australian Informatics Resources
 Easier way to install orac2.info userscript: [link](https://greasyfork.org/en/scripts/591750-orac-userscript)
 
+DISCLAIMER: None of the 'hidden' or old problems I have in this repository are already public material, which can be accessed from brute-forcing page links, or using the Wayback Machin (old versions of the website)
+
 ORAC Solutions to AIO problems, AIIO Problems, Alpha Contest Problems, FARIO Problems, Other ORAC Problems. By the way, if a problem file is just a number, it refers to [https://orac2.info/problem/id/](https://orac2.info/problem/id/). Also, I will not include solutions to leaderboarded-questions (Less than 10 people solved) (so I can stay on the leaderboard), or Selection Exam problems (maybe later tho because I don't want to :) ).
 
 UPDATE: Website is now live on [github pages](https://aperson31415.github.io/informatics/) (just a fancier file explorer tho, adding other stuff soon)
@@ -127,3 +129,5 @@ I've found that these notes are good for solving alpha/aiio problems.
 
 Closer to AIO, I might make some notes more focused on aio.
 Also, there is a version with no code highlighting for printing.
+
+If anyone from AMT doesn't like this, just email me at [acoder31415@gmail.com](mailto:acoder31415@gmail.com).
