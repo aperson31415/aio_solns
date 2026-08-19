@@ -24,7 +24,7 @@ xychart-beta
     title "Problems Solved"
     x-axis "Day" ["Aug 18", "Aug 19", "Aug 20", "Aug 21", "Aug 22", "Aug 23", "Aug 24", "Aug 25", "Aug 26", "Aug 27"]
     y-axis "Problems"
-    line "Solves" [5, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    line "Solves" [5, 1, 0, 0, 0, 0, 0, 0, 0, 0]```
   
   | Type of Problem | Amount |
 | AIO   | 4   |
