@@ -27,9 +27,10 @@ xychart-beta
     line "Solves" [5, 1, 0, 0, 0, 0, 0, 0, 0, 0]
 ```
   
-  | Type of Problem | Amount |
-| AIO   | 4   |
-| AIIO   | 2   |
+| Type of Problem | Amount |
+| :--- | :--- |
+| AIO | 4 |
+| AIIO | 2 |
 | Other | 0 |
 </details>
 Problems I've solved: 172
