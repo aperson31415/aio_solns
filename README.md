@@ -1,5 +1,7 @@
 # Australian Informatics Resources
 ## Notices (top is newer)
+Added some issues and discussions, can discuss problems here, and fix issues (help if u want i guess, add features you want)
+
 3 Mock AIO Exams are here, all made in like 30 minutes, best quality one is the [Mock 2026 AIO](https://github.com/aperson31415/informatics/blob/main/Mock%20Exams/Mock_AIO_2026.pdf)
 
 Easier way to install orac2.info userscript: [link](https://greasyfork.org/en/scripts/591750-orac-userscript)
