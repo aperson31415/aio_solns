@@ -27,26 +27,26 @@ xychart-beta
     title "Problems Solved"
     x-axis "Day" ["Aug 18", "Aug 19", "Aug 20", "Aug 21", "Aug 22", "Aug 23", "Aug 24", "Aug 25", "Aug 26", "Aug 27"]
     y-axis "Problems"
-    line "Solves" [5, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    line "Solves" [5, 3, 0, 0, 0, 0, 0, 0, 0, 0]
 ```
   
 | Type of Problem | Amount |
 | :--- | :--- |
-| AIO | 4 |
-| AIIO | 2 |
+| AIO | 5 |
+| AIIO | 4 |
 | Other | 0 |
 </details>
-Problems I've solved: 172
+Problems I've solved: 175
 
 100 Problems: Jan 2026<br>
 125 Problems: Mar 2026<br>
 150 Problems: Apr 2026<br>
+175 Problems: Sep 2026<br>
 All AIO p1-5s: Sep 2026<br>
 All 3 star problems: Apr 2026, Tennis Robot II got added recently, so Sep 2026<br>
 
 All AIO problems: ?<br>
 All Alpha p1-3s: ?<br>
-175 problems solved: ?<br>
 All 4 star problems: ?<br>
 500+ in this years AIO!: ?<br>
 
