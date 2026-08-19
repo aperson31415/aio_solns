@@ -16,6 +16,27 @@ I'm planning to solve a lot of problems (specifically AIO + AIIO) soon. (Aiming 
 Somehow this repo has an average of ~150-200 unique cloners every fortnight but like 5 views, so is that just bots or real people? Someone pls tell me.
 
 ## Solves
+<details>
+  <summary>Test of graph/table of my solves right before AIO</summary>
+      ```mermaid
+    %%{init: {'theme': 'default'}}%%
+    line
+        title: Problems Solved
+        xAxisTitle: Day
+        yAxisTitle: Problems
+        xAxisLabels: Aug 18, Aug 19, Aug 20, Aug 21, Aug 22, Aug 23, Aug 24, Aug 25, Aug 26, Aug 27
+        series:
+          - title: Solves
+            data: 5, 1, 0, 0, 0, 0, 0, 0, 0, 0
+  
+  | Type of Problem | Amount |
+| --- | --- |
+| AIO   | 4   |
+| --- | --- |
+| AIIO   | 2   |
+| --- | --- |
+| Other | 0 |
+</details>
 Problems I've solved: 172
 
 100 Problems: Jan 2026<br>
