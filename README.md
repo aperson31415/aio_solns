@@ -28,13 +28,11 @@ Somehow this repo has an average of ~150-200 unique cloners every fortnight but 
         series:
           - title: Solves
             data: 5, 1, 0, 0, 0, 0, 0, 0, 0, 0
+      ```
   
   | Type of Problem | Amount |
-| --- | --- |
 | AIO   | 4   |
-| --- | --- |
 | AIIO   | 2   |
-| --- | --- |
 | Other | 0 |
 </details>
 Problems I've solved: 172
