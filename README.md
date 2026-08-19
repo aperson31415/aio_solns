@@ -19,16 +19,12 @@ Somehow this repo has an average of ~150-200 unique cloners every fortnight but 
 <details>
   <summary>Test of graph/table of my solves right before AIO</summary>
       ```mermaid
-    %%{init: {'theme': 'default'}}%%
-    line
-        title: Problems Solved
-        xAxisTitle: Day
-        yAxisTitle: Problems
-        xAxisLabels: Aug 18, Aug 19, Aug 20, Aug 21, Aug 22, Aug 23, Aug 24, Aug 25, Aug 26, Aug 27
-        series:
-          - title: Solves
-            data: 5, 1, 0, 0, 0, 0, 0, 0, 0, 0
-      ```
+%%{init: {'theme': 'default'}}%%
+xychart-beta
+    title "Problems Solved"
+    x-axis "Day" ["Aug 18", "Aug 19", "Aug 20", "Aug 21", "Aug 22", "Aug 23", "Aug 24", "Aug 25", "Aug 26", "Aug 27"]
+    y-axis "Problems"
+    line "Solves" [5, 1, 0, 0, 0, 0, 0, 0, 0, 0]
   
   | Type of Problem | Amount |
 | AIO   | 4   |
