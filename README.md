@@ -70,5 +70,8 @@ I've found that these notes are good for solving alpha/aiio problems.
 Closer to AIO, I might make some notes more focused on aio, and some common tricks, and ideas that have come up in past p4-6s.
 Also, there is a version with no code highlighting for printing.
 
+## Mock Exams
+A bunch of half-finished mock exams mostly for AIO, will add Alpha-level ones soon. Some are good quality
+
 ## yes
 If anyone from AMT doesn't like this, just email me at [acoder31415@gmail.com](mailto:acoder31415@gmail.com). (like aiio 2020)
