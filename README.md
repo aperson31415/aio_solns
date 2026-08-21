@@ -62,15 +62,15 @@ Now, it comes with editorials for problems (most not added, but slowly and surel
 
 <details>
   <summary>★ Rating approximations</summary>
-  0★: Starter Problem (AIO p1), pretty much just a beginner programming exercise
-  1★: Extremely Trivial (AIO p2-3), usually involves a simple data structure or precomputation
-  2★: Trivial (AIO p3-4), usually involves implementation of a basic technique like prefix sums or binary search. Can also include an observation.
-  3★: Easy (AIO p4/Easy AIIO p1), involves implementation of usually 2 basic techniques, as well as some sort of observation.
-  4★: Medium (AIO p4-5/AIIO p1), multi-part problem involving some harder techniques like DFS or DP, definitely an observation, and usually annoying to implment
-  5★: Difficult (AIO p6/AIIO p1-3/Easy FARIO), either involves an advanced algorithm with some observations, usually learnt in SoE, or basic algorithms with lots of working by hand. Annoying to implement 90% of the time
-  6★: Hard (AIIO p3-4/FARIO/Seln Easy), involves advanced algorithms, observations, can start to be interactive. Usually extremely annoying to implement
-  7★: Very Hard (Hard FARIO/Seln Ex), extremely hard problem with maybe 2 in-contest solves
-  8/9★: Extremely Hard (Hard Seln/IOI), Usually interactive problems, extremely hard with usually 0 in-contest solves
+  0★: Starter Problem (AIO p1), pretty much just a beginner programming exercise<br>
+  1★: Extremely Trivial (AIO p2-3), usually involves a simple data structure or precomputation<br>
+  2★: Trivial (AIO p3-4), usually involves implementation of a basic technique like prefix sums or binary search. Can also include an observation.<br>
+  3★: Easy (AIO p4/Easy AIIO p1), involves implementation of usually 2 basic techniques, as well as some sort of observation.<br>
+  4★: Medium (AIO p4-5/AIIO p1), multi-part problem involving some harder techniques like DFS or DP, definitely an observation, and usually annoying to implment<br>
+  5★: Difficult (AIO p6/AIIO p1-3/Easy FARIO), either involves an advanced algorithm with some observations, usually learnt in SoE, or basic algorithms with lots of working by hand. Annoying to implement 90% of the time<br>
+  6★: Hard (AIIO p3-4/FARIO/Seln Easy), involves advanced algorithms, observations, can start to be interactive. Usually extremely annoying to implement<br>
+  7★: Very Hard (Hard FARIO/Seln Ex), extremely hard problem with maybe 2 in-contest solves<br>
+  8/9★: Extremely Hard (Hard Seln/IOI), Usually interactive problems, extremely hard with usually 0 in-contest solves (From australia) <br>
 </details>
 
 I've also added some old problems which _most_ users can't access now, but given the pdfs/old html stuff (i can only use stuff used from other online sources wayback machine otherwise i could get in trouble). Note that the style is very different, so womp womp kinda.
