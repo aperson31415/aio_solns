@@ -1,6 +1,6 @@
 # Australian Informatics Resources
 ## Notices (top is newer)
-New resource (probably and hopefully done by AIO this year): OASIS - short solutions as reference to past AIOs.
+New resource (probably and hopefully done by AIO this year): OASIS/GOAT - short solutions as reference to past AIOs.
 
 Added some issues and discussions, can discuss problems here, and fix issues (help if u want i guess, add features you want)
 
