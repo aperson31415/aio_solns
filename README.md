@@ -1,7 +1,9 @@
 # Australian Informatics Resources
 Does anyone have access to this? [https://orac2.info/hub/set/test](https://orac2.info/hub/set/test)
 ## Notices (top is newer)
-New resource (probably and hopefully done by AIO this year): OASIS/GOAT - short solutions as reference to past AIOs.
+Notes are split into 2: OG (OASIS + GOAT), Pterodactyl (Algorithm reference), Much Thinkness (Strategy document and how to approach problems) [uploading just before AIO as updating a lot rn]
+
+New resource (probably and hopefully done by AIO this year): OASIS/GOAT - short solutions as reference to past AIOs (as of rn not done yet but check before AIO will be done)
 
 PLS PULL REQUEST: Added some issues and discussions, can discuss problems here, and fix issues (help if u want i guess, add features you want)
 
