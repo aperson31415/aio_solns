@@ -1,4 +1,6 @@
 # Australian Informatics Resources
+CONVERTING ORAC USERSCRIPT TO CHROME EXTENSION SOON!
+
 This repo pretty much has everything i use for info in terms of aus. The main features/things i have here are:
 - orac2.info solutions to most AIO, Alpha, some Seln, AIIO, and FARIO
 - old problem statements from aic/aiio recovered from wayback machine
